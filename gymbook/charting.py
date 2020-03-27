@@ -25,3 +25,7 @@ def number_average_rep_weight_exercise(df, exercise):
     ax.xaxis.set_major_formatter(mdates.DateFormatter('%d %b')) # https://matplotlib.org/3.1.1/api/dates_api.html#matplotlib.dates.DateFormatter
     
     plt.show()
+    
+# Reading
+# Date formatter https://matplotlib.org/3.1.1/api/dates_api.html#matplotlib.dates.DateFormatter
+# Example of nice date formatting using this https://scentellegher.github.io/programming/2017/05/24/pandas-bar-plot-with-formatted-dates.html
