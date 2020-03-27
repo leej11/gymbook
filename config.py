@@ -1,0 +1,1 @@
+PROJECT_PATH = 'C:\\Users\\Liam\\Documents\\GitHub\\gymbook\\'
